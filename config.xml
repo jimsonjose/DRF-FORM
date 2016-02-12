@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.test.sec" version="1.0.0">
-  <name>This is a sample program for DRF by Jimson Jose</name>
-  <description>This is a sample program for DRF by Jimson Jose </description>
+  <name>DRF - EMP (FORM)</name>
+  <description>This is a sample program for DRF on BETA(TESTING),AUTHOR: Jimson Jose.T </description>
   <author href="http://phonegap.com" email="hai.jimson.jose@gmail.com">Jimson Jose</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
